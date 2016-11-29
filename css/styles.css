@@ -155,7 +155,7 @@ footer{
 	height:65px;
 	border-top:#68b303 1px solid;
 }
-@media only screen and (min-width: 770px) and (max-width: 1024px){
+@media and (min-width: 770px) and (max-width: 1024px){
 	body {font-size:16px;line-height:1.4;} 
 	h1{font-size:40px;}
 	
@@ -177,7 +177,7 @@ footer{
 		margin:25px 25px 0 0;
 	}
 }
-@media only screen and (max-width: 770px){
+@media and (max-width: 770px){
 	body {font-size:15px;line-height:1.4;} 
 	h1{font-size:32px;}
 	.faq h2{
@@ -198,7 +198,7 @@ footer{
 		margin:15px 0 0 0;
 	}
 }
-@media only screen and (max-width: 559px){
+@media and (max-width: 559px){
 	aside{float:none;margin:0 auto;}
 	.content{
 		float:none;
